@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import './App.css';
-import message from './message.js';
+import message, from './msessage.js';
 function App() {
   let {count,setCount}=useState(1);
   return (
